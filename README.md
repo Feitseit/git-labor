@@ -1,6 +1,7 @@
 # Git Labor Projekt
 
-See on minu esimene Git repositoorium.
+**Autor:** Markus Kleeman
+**Kuupäev:** 11/12/2025
 
 ## Eesmärk
 Õppida Git põhitõdesid ja workflow'sid.
